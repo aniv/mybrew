@@ -1,6 +1,7 @@
 bdw-gc
 c-ares
 coreutils
+displayplacer
 emacs
 gettext
 gmp
@@ -35,5 +36,3 @@ sublime-text
 thinkorswim
 visual-studio-code
 vlc
-displayplacer
-
