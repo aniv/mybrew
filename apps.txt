@@ -1,4 +1,5 @@
 bdw-gc
+brotli
 c-ares
 coreutils
 displayplacer
@@ -8,8 +9,10 @@ gmp
 gnupg
 gnutls
 guile
+icu4c
 jansson
 jemalloc
+jq
 libassuan
 libev
 libevent
@@ -22,12 +25,15 @@ libtasn1
 libtool
 libunistring
 libusb
+libuv
 m4
 mas
 ncurses
 nettle
 nghttp2
+node
 npth
+oniguruma
 openssl@1.1
 p11-kit
 pinentry
