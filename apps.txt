@@ -39,6 +39,7 @@ p11-kit
 pinentry
 pkg-config
 readline
+telnet
 tmux
 trash
 unbound
