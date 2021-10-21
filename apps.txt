@@ -1,9 +1,11 @@
 bdw-gc
 brotli
 c-ares
+ca-certificates
 coreutils
 displayplacer
 emacs
+gdbm
 gettext
 gmp
 gnupg
@@ -21,6 +23,7 @@ libgcrypt
 libgpg-error
 libidn2
 libksba
+libnghttp2
 libtasn1
 libtool
 libunistring
@@ -28,6 +31,7 @@ libusb
 libuv
 m4
 mas
+mpdecimal
 ncurses
 nettle
 nghttp2
@@ -38,11 +42,15 @@ openssl@1.1
 p11-kit
 pinentry
 pkg-config
+python@3.9
 readline
+sqlite
+telnet
 tmux
 trash
 unbound
 utf8proc
+xz
 1password
 firefox
 keybase
