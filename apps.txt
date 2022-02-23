@@ -44,6 +44,7 @@ pinentry
 pkg-config
 python@3.9
 readline
+speedtest
 sqlite
 telnet
 tmux
