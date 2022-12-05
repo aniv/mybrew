@@ -2,6 +2,7 @@ bdw-gc
 brotli
 c-ares
 ca-certificates
+cmake
 coreutils
 displayplacer
 emacs
@@ -10,8 +11,10 @@ gettext
 gmp
 gnupg
 gnutls
+go
 guile
 icu4c
+iperf3
 jansson
 jemalloc
 jq
@@ -24,6 +27,7 @@ libgpg-error
 libidn2
 libksba
 libnghttp2
+libssh2
 libtasn1
 libtool
 libunistring
@@ -42,8 +46,10 @@ openssl@1.1
 p11-kit
 pinentry
 pkg-config
+protobuf
 python@3.9
 readline
+rust
 speedtest
 sqlite
 telnet
@@ -54,6 +60,7 @@ utf8proc
 xz
 1password
 firefox
+jasp
 keybase
 nordvpn
 omnidisksweeper
