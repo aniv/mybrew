@@ -58,6 +58,7 @@ trash
 unbound
 utf8proc
 xz
+yq
 1password
 firefox
 jasp
