@@ -1,3 +1,4 @@
+abseil
 bdw-gc
 brotli
 c-ares
@@ -42,6 +43,7 @@ nghttp2
 node
 npth
 oniguruma
+openldap
 openssl@1.1
 openssl@3
 p11-kit
@@ -69,7 +71,7 @@ keybase
 nordvpn
 omnidisksweeper
 postman
-spectacle
+rectangle
 spotify
 sublime-text
 thinkorswim
