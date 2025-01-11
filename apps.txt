@@ -4,6 +4,7 @@ btop
 c-ares
 ca-certificates
 cairo
+certifi
 cmake
 displayplacer
 duckdb
@@ -43,7 +44,9 @@ libxcb
 libxdmcp
 libxext
 libxrender
+libyaml
 little-cms2
+llm
 llvm
 lz4
 lzo
@@ -77,6 +80,7 @@ trash
 tree
 unbound
 utf8proc
+uv
 xorgproto
 xz
 yq
