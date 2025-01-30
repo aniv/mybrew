@@ -19,6 +19,7 @@ gnutls
 go
 graphite2
 harfbuzz
+hugo
 icu4c@76
 iperf3
 jpeg-turbo
