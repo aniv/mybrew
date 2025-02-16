@@ -4,7 +4,7 @@ Generates a current listing of locally installed [Homebrew](https://brew.sh/) ap
 
 ## Usage
 
-Run `python3 brew.py` and review pull requests on Github.com periodically for changes
+Run `python3 brew.py` (or `uv run brew.py`) and review pull requests on Github.com periodically for changes
 
 To install `brew` packages from the list generated, run `xargs brew install < apps.txt`
 
