@@ -91,6 +91,7 @@ rsync
 rust
 speedtest-cli
 sqlite
+syncthing
 telnet
 tmux
 trash
@@ -132,7 +133,6 @@ parsify
 postman
 raindropio
 rectangle
-rsyncui
 slack
 spotify
 sublime-text
