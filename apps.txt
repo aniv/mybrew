@@ -35,6 +35,7 @@ kubernetes-cli
 libassuan
 libevent
 libgcrypt
+libgit2
 libgit2@1.8
 libgpg-error
 libidn2
@@ -59,6 +60,9 @@ little-cms2
 llm
 llvm
 llvm@19
+lpeg
+luajit
+luv
 lz4
 lzo
 mas
@@ -66,6 +70,7 @@ minio
 minio-mc
 mpdecimal
 ncurses
+neovim
 nettle
 node
 npth
@@ -96,7 +101,9 @@ telnet
 tmux
 trash
 tree
+tree-sitter
 unbound
+unibilium
 utf8proc
 uv
 wget
@@ -119,6 +126,7 @@ firefox
 font-meslo-lg-nerd-font
 ghostty
 google-chrome
+google-cloud-sdk
 iina
 keybase
 microsoft-auto-update
@@ -140,3 +148,4 @@ tailscale
 transmission
 visual-studio-code
 vlc
+warp
