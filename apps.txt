@@ -7,9 +7,9 @@ cairo
 certifi
 clamav
 cmake
+cmatrix
+codex
 displayplacer
-docker
-docker-completion
 duckdb
 fontconfig
 freetype
@@ -22,7 +22,6 @@ gnutls
 go
 graphite2
 harfbuzz
-hugo
 icu4c@76
 icu4c@77
 iperf3
@@ -35,7 +34,6 @@ kubernetes-cli
 libassuan
 libevent
 libgcrypt
-libgit2
 libgit2@1.8
 libgpg-error
 libidn2
@@ -58,15 +56,12 @@ libxrender
 libyaml
 little-cms2
 llm
-llvm
-llvm@19
 lpeg
 luajit
 luv
 lz4
 lzo
 mas
-minio
 minio-mc
 mpdecimal
 ncurses
@@ -93,7 +88,6 @@ readline
 rename
 restic
 rsync
-rust
 speedtest-cli
 sqlite
 syncthing
@@ -112,7 +106,6 @@ xxhash
 xz
 yara
 yq
-z3
 zstd
 1password
 1password-cli
@@ -129,6 +122,7 @@ google-chrome
 google-cloud-sdk
 iina
 keybase
+maccy
 microsoft-auto-update
 microsoft-office
 microsoft-teams
@@ -137,6 +131,7 @@ nordvpn
 numi
 obsidian
 omnidisksweeper
+orbstack
 parsify
 postman
 raindropio
